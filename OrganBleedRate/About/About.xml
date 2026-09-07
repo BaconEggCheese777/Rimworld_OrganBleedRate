@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <packageId>baconeggcheese.organbleedrate</packageId>
-  <name>Organ Bleed Rate x2</name>
+  <name>Organ Bleed Rate x3</name>
   <author>BaconEggCheese</author>
   <url></url>
   <supportedVersions>
@@ -9,5 +9,5 @@
     <li>1.5</li>
     <li>1.6</li>
   </supportedVersions>
-  <description>Doubles the bleed rate of the Brain, Heart, and Liver. Every other body part is untouched. No Harmony required.</description>
+  <description>Triples the bleed rate of the Brain, Heart, and Liver. Every other body part is untouched. No Harmony required.</description>
 </ModMetaData>
