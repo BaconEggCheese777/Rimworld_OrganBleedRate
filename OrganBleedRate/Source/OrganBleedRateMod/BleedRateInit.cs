@@ -27,7 +27,7 @@ namespace OrganBleedRateMod
             if (def == null)
                 return;
 
-            def.bleedRate *= 2f;
+            def.bleedRate *= 3f;
         }
     }
 }
