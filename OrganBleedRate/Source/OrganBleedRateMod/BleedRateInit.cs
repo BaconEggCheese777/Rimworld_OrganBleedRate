@@ -19,6 +19,7 @@ namespace OrganBleedRateMod
             DoubleBleedRate("Brain");
             DoubleBleedRate("Heart");
             DoubleBleedRate("Liver");
+            DoubleBleedRate("Neck");
         }
 
         private static void DoubleBleedRate(string defName)
